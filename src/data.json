@@ -1,0 +1,17 @@
+[{
+        "id": "1",
+        "titulo": "el Ganzo Alegre",
+        "director": "Carlitos",
+        "año": "2020",
+        "genero": "Nopor",
+        "rating": "15 point"
+    },
+    {
+        "id": "2",
+        "titulo": "La cuarentena",
+        "director": "La casa Record",
+        "año": "2018",
+        "genero": "comedia",
+        "rating": "20 point"
+    }
+]
